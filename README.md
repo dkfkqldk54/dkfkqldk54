@@ -1,4 +1,4 @@
-<h2>Seongjin Heo</h2> 
+<h2>Seongjin Heo(초보)</h2> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=dkfkqldk54" height="165">
 
