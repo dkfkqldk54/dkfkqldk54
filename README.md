@@ -1,7 +1,6 @@
 <h2>Seongjin Heo</h2> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=dkfkqldk54" height="165">
-<img align="middle" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkfkqldk54">
 
 
 <!--
